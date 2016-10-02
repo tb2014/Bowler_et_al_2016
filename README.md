@@ -12,7 +12,7 @@ Code to generate Fig 2 part C
 ##Supplied scripts
 ##runme_fig2.sh
 ##cosmic_splitter.pl
-##chrsplitter.pl
+##chrspliter.pl
 ##extractor.pl
 ##multiblast_w_filter_97.pl
 ##frequency.R
