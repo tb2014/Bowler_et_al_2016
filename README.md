@@ -6,8 +6,8 @@ Code to generate Fig 2 part C
 ## chr1.fa chr2.fa chr3.fa chr4.fa chr5.fa chr6.fa chr7.fa chr8.fa chr9.fa
 ## chr10.fa chr11.fa chr12.fa chr13.fa chr14.fa chr15.fa chr16.fa chr17.fa chr18.fa
 ## chr19.fa chr20.fa chr21.fa chrX.fa chrY.fa
-##Cosmic SNP file from cancer.sanger.ac.uk/cosmic downloaded on October 15th 2014
-##CosmicMutantExport.tsv
+##Cosmic SNP tab separated table of all COSMIC coding point mutations from targeted and genome wide screens from cancer.sanger.ac.uk/cosmic downloaded on October 15th 2014
+##CosmicMutantExport.tsv (available on request)
 
 ##Supplied scripts
 ##runme_fig2.sh
